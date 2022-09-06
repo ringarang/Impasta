@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheat", "Cheat\Cheat.csproj", "{6E89763F-46F4-4B7A-8161-A0D6F9536A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Impasta|Impasta = Impasta|Impasta
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E89763F-46F4-4B7A-8161-A0D6F9536A3C}.Impasta|Impasta.ActiveCfg = Impasta|Any CPU
+		{6E89763F-46F4-4B7A-8161-A0D6F9536A3C}.Impasta|Impasta.Build.0 = Impasta|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C078EF22-DD3A-4CFA-88C5-C9CF91ABAEF0}
+	EndGlobalSection
+EndGlobal
