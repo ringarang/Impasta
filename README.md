@@ -1,5 +1,5 @@
 # Impasta
-Client modification for the popular hit game "Among Us"
+Client modification for the popular hit game "Among Us" for the Steam version v2022.8.24
 ## How to use
 * Compile the program and run "Impasta.exe"
 ## Features
